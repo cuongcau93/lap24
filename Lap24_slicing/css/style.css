@@ -1,0 +1,195 @@
+
+.content-web{
+    margin-left: 115px;
+    width: 1200px;
+    margin-top: -7px;
+    background-color: #eaeaea;
+    height: 1150px;
+    color: black;
+}
+
+#home{
+    margin-top: 15px;
+    float: left;
+}
+ul{
+    list-style:none;
+    
+}
+
+.home_title{
+    float: left;
+    margin-left: 320px;
+    font-family: 'Varela Round', sans-serif;
+    font-family: 12pt;
+}
+
+.home_title a{
+    text-decoration: none;
+    color: black;
+
+}
+
+.home_title2 a{
+    text-decoration: none;
+    color: black;
+
+}
+
+li{
+    float: left;
+    padding-top: 35px;
+    padding-right: 10 px;
+}
+
+.home_title2{
+    height: 50px;
+    float: right;
+    margin-top: -33px;
+    margin-right: 100px;
+    font-family: 'Varela Round', sans-serif;
+    font-family: 15pt;
+}
+/*
+.main-menu{
+    width: 100%;
+    height: 200px;
+    background-image: url(../images/Capture.PNG);
+    background-repeat: no-repeat;
+    -webkit-background-size: 100%;
+    background-size:100% ;
+}*/
+
+.main-menu{
+    height: 140px;
+    background-color: #eaeaea;
+}
+
+.main_content{
+    margin-top: 15px;
+    height: 300px;
+    width: 100%;
+    background-image: url(../images/bgc.jpg);
+}
+
+#images{
+    margin-left: 115px;
+}
+
+#wellcome{
+    float: left;
+    margin-top: 35px;
+    margin-left: 30px;
+}
+
+#weareone{
+    position: relative;
+    top: -51px;
+}
+
+.main_content_weareone{
+    height: 170px;
+    width: 260px;
+    position: relative;
+    top: 105px;
+    margin-left: 30px;
+}
+
+#lost{
+    position: relative;
+    top: -189px;
+}
+
+.login{
+    height: 240px;
+    width: 265px;
+    position: relative;
+    top: -134px;
+    margin-left: 445px;
+    background-image: url(../images/bgr1.png);
+/*    background-color: rgba(0, 0, 0, 0.3);*/
+}
+
+.register_title{
+    height: 240px;
+    width: 265px;
+    left: 379px;
+    position: relative;
+    top: -375px;
+    margin-left: 445px;
+    background-image: url(../images/bgr1.png);
+}
+#iconR{
+    margin-left: 15px;
+}
+
+#text_login{
+    position: relative;
+    top: -10px;
+    left: 18px;
+    margin-bottom: 5px;
+
+}
+
+.login_title{
+    width: 100%;
+    height: 40px;
+    background-color: #1a3242;
+    margin-left: 1px;
+}
+
+#input1{
+    width: 230px;
+    height: 30px;
+    margin-top: 15px;
+    margin-left: 15px;
+    margin-left: 15px;
+    border-radius: 8px;
+
+}
+
+#input{
+    width: 230px;
+    height: 30px;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 5px;
+    border-radius: 8px;
+}
+
+#input2{
+    width: 235px;
+    height: 30px;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 5px;
+    border-radius: 8px;
+    background-color: black;
+    color: aliceblue;
+}
+
+#input3{
+    width: 235px;
+    height: 40px;
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 5px;
+    border-radius: 8px;
+    background-color: black;
+    color: aliceblue;
+}
+
+
+#textlog{
+    
+}
+
+#orsawich{
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+#face{
+        margin-top: 10px;
+
+}
